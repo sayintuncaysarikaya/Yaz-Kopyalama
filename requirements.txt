@@ -1,3 +1,5 @@
 streamlit
 instaloader
 fpdf
+pytesseract
+Pillow
